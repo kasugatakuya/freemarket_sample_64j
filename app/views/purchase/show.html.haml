@@ -47,15 +47,15 @@
       .buy-confirm__box__address
         .buy-confirm__box__address__left
           %h1 配送先
-          = "〒"
-          = @addresses.post_cord
-          %br 
-          = @item.prefecture.name
-          = @addresses.city
-          = @addresses.address
-          %br 
-          = @addresses.first_name
-          = @addresses.last_name
+          -# = "〒"
+          -# = @addresses.post_cord
+          -# %br 
+          -# = @item.prefecture.name
+          -# = @addresses.city
+          -# = @addresses.address
+          -# %br 
+          -# = @addresses.first_name
+          -# = @addresses.last_name
         .buy-confirm__box__address__right
           = link_to "変更する", root_path
       .buy-confirm__box__border5
