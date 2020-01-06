@@ -55,6 +55,7 @@ class PurchaseController < ApplicationController
   def set_card
     @card = Card.where(user_id: current_user.id).first if Card.where(user_id: current_user.id).present?
     @item = Item.find(params[:id])
-    @addresses = Address.find(params[:id])
+    @addresses = current_user.address
   end
+
 end
