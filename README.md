@@ -38,9 +38,6 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 * メール：seller_user@gmail.com
 * パスワード：seller_user
 
-## Githubリポジトリ
-### URL：[https://github.com/kasugatakuya/freemarket_sample_64j](https://github.com/kasugatakuya/freemarket_sample_64j)
-
 ## :computer:機能詳細
 
 <h2 align="center">〜トップページ〜</h2>
