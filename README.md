@@ -44,32 +44,38 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 ## :computer:機能詳細
 
 <h2 align="center">〜トップページ〜</h2>
-<p align="center">CSSのみを使ったドロップダウンメニューやiQueryのslickを使ったスライドショーがある。（カテゴリ機能は未実装）
+<p align="center">CSSのみを使ったドロップダウンメニューやiQueryのslickを使ったスライドショーがある。（カテゴリ機能は未実装）</p>
+
 ![443e569470d212910f0847177034a30e](https://user-images.githubusercontent.com/57311079/72126763-adb80380-33b0-11ea-88b3-fa778a2c19a1.gif)
-</p>
 
 <h2 align="center">〜新規会員登録機能〜</h2>
 <p align="center">個人情報と住所とクレジットカード情報を登録する事で会員登録できる。</p>
+
 ![329315356786613f3a5c13c32ebbc38d](https://user-images.githubusercontent.com/57311079/72133850-cbdc2e80-33c5-11ea-9668-57f9253118ff.gif)
 
 <h2 align="center">〜商品出品機能〜</h2>
 <p align="center">会員登録すれば商品を出品する事ができる。商品画像は10枚まで登録できる。商品の状態や発送方法などを細かく設定できる。</p>
+
 ![27d7c8356910f4ad8ad04bad913616dd](https://user-images.githubusercontent.com/57311079/72127280-8104eb80-33b2-11ea-8b8d-4c1dee5efa3a.gif)
 
 <h2 align="center">〜商品詳細ページ〜</h2>
 <p align="center">iQueryのslickを使ったサムネイルつきスライドショーがある。商品の状態や配送元などを詳しく見る事ができる</p>
+
 ![64f63b6e4d396cbacdb96b1fbd0de5b3](https://user-images.githubusercontent.com/57311079/72127481-26b85a80-33b3-11ea-8c6d-cff0cd01e110.gif)
 
 <h2 align="center">〜商品編集ページ〜</h2>
 <p align="center">商品画像と商品情報の追加・削除・変更が行える。</p>
+
 ![3b08c8991394634587f0170b802ad344](https://user-images.githubusercontent.com/57311079/72129557-fd4efd00-33b9-11ea-88e1-1cc1103160f2.gif)
 
 <h2 align="center">〜商品購入機能〜</h2>
 <p align="center">仮想クレジットPayjpを使い仮想的に商品購入できる。購入した商品にはSOLDマークがつき購入できなくなる。</p>
+
 ![c1d1cb40747b2e899e84ccf5a2f175b7](https://user-images.githubusercontent.com/57311079/72129791-d9d88200-33ba-11ea-959f-0400c05c63d6.gif)
 
 <h2 align="center">〜コメント機能〜</h2>
 <p align="center">出品させた商品にコメントでき、出品者と交渉する事ができる。</p>
+
 ![db201a0b4a1e87a0083f6a1c461827f8](https://user-images.githubusercontent.com/57311079/72130231-2ec8c800-33bc-11ea-8110-ad258f47933e.gif)
 
 
