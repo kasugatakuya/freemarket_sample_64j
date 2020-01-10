@@ -42,7 +42,8 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 ### URL：[https://github.com/kasugatakuya/freemarket_sample_64j](https://github.com/kasugatakuya/freemarket_sample_64j)
 
 ## :computer:機能詳細
-### トップページ
+
+<p align="center">### トップページ</p>
 ![443e569470d212910f0847177034a30e](https://user-images.githubusercontent.com/57311079/72126763-adb80380-33b0-11ea-88b3-fa778a2c19a1.gif)
 
 ### 商品出品機能
