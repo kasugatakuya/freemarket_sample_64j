@@ -61,6 +61,7 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 ![db201a0b4a1e87a0083f6a1c461827f8](https://user-images.githubusercontent.com/57311079/72130231-2ec8c800-33bc-11ea-8110-ad258f47933e.gif)
 
 
+# :memo:DB設計
 ## users テーブル
 
 | Column          | Type   | Options                 |
@@ -120,8 +121,8 @@ belongs_to:user
 
 ## items テーブル
 
-| --------------- | ------- | ---------- |
 | Column | Type | Options |
+| --------------- | ------- | ---------- |
 | name | string | null:false |
 | size | string | |
 | condition | string | null:false |
