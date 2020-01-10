@@ -44,8 +44,9 @@ Basic認証をかけています。閲覧時は以下のIDとPassを入力して
 ## :computer:機能詳細
 
 <h2 align="center">〜トップページ〜</h2>
-<p align="center">CSSのみを使ったドロップダウンメニューやiQueryのslickを使ったスライドショーがある。（カテゴリ機能は未実装）</p>
+<p align="center">CSSのみを使ったドロップダウンメニューやiQueryのslickを使ったスライドショーがある。（カテゴリ機能は未実装）
 ![443e569470d212910f0847177034a30e](https://user-images.githubusercontent.com/57311079/72126763-adb80380-33b0-11ea-88b3-fa778a2c19a1.gif)
+</p>
 
 <h2 align="center">〜新規会員登録機能〜</h2>
 <p align="center">個人情報と住所とクレジットカード情報を登録する事で会員登録できる。</p>
