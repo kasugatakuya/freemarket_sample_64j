@@ -2,53 +2,46 @@
 # README　このアプリについて
 ***
 
-## Fmarket（メルカリコピーサイト）とは
-***
+## :gift:Fmarket（メルカリコピーサイト）とは
 プログラミングスクールTECH::EXPERT64期最終課題制作物。
 スクラム（チーム５人）によるアジャイル開発により制作。
 メルカリの機能である新規会員登録・ログイン機能・商品出品機能・商品購入機能・商品編集機能などを忠実に再現した。
 
-## 概要
-***
-* アプリ名：Fmarket
-* 使用言語：HTML/CSS/Ruby/Rails/JavaScript/jQuery/MySQL/AWS/Github/Visual Studio Code
-* 機能：新規会員登録・ログイン機能・商品出品機能・商品購入機能・商品編集機能・パンくず機能・コメント機能
-* 作業人数：5人
-* 作業期間：約4週間
-* タスク管理：Trello
+## :memo:概要
+* :gift:アプリ名：Fmarket
+* :jp:使用言語：HTML/CSS/Ruby/Rails/JavaScript/jQuery/MySQL/AWS/Github/Visual Studio Code
+* :computer:機能：新規会員登録・ログイン機能・商品出品機能・商品購入機能・商品編集機能・パンくず機能・コメント機能
+* :couple:作業人数：5人
+* :date:作業期間：約4週間
+* :page_facing_up:タスク管理：Trello
 
-* :muscle:
-
-## URL :one:
-***
+## :earth_africa:URL
 ### URL：[http://3.113.185.115/](http://3.113.185.115/)
 
 Basic認証をかけています。閲覧時は以下のIDとPassを入力してください。
-### ID&Pass
-* ID: mercari64j
-* Pass:6464
+### :lock:ID&Pass
+* :id:ID: mercari64j
+* :key:Pass:6464
 
-##  テスト用アカウント
-***
-### 購入者アカウント
-* メール：buyer_user@gmail.com
-* パスワード: buyer_user
+## :memo:テスト用アカウント
 
-### 購入用カード情報
-* 番号：4242424242424242
-* 期限：2020年12月
-* セキュリティコード：123
+### :moneybag:購入者アカウント
+* :envelope:メール：buyer_user@gmail.com
+* :key:パスワード: buyer_user
 
-### 出品者用アカウント
-* メール：seller_user@gmail.com
-* パスワード：seller_user
+### :credit_card:購入用カード情報
+* :black_nib:番号：4242424242424242
+* :date:期限：2020年12月
+* :key:セキュリティコード：123
+
+### :gift:出品者用アカウント
+* :envelope:メール：seller_user@gmail.com
+* :key:パスワード：seller_user
 
 ## Githubリポジトリ
-***
 ### URL：[https://github.com/kasugatakuya/freemarket_sample_64j](https://github.com/kasugatakuya/freemarket_sample_64j)
 
-## 機能詳細
-***
+## :computer:機能詳細
 ### トップページ
 ![443e569470d212910f0847177034a30e](https://user-images.githubusercontent.com/57311079/72126763-adb80380-33b0-11ea-88b3-fa778a2c19a1.gif)
 
