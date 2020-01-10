@@ -1,5 +1,72 @@
 
-# README
+# README　このアプリについて
+***
+
+## Fmarket（メルカリコピーサイト）とは
+***
+プログラミングスクールTECH::EXPERT64期最終課題制作物。
+スクラム（チーム５人）によるアジャイル開発により制作。
+メルカリの機能である新規会員登録・ログイン機能・商品出品機能・商品購入機能・商品編集機能などを忠実に再現した。
+
+## 概要
+***
+* アプリ名：Fmarket
+* 使用言語：HTML/CSS/Ruby/Rails/JavaScript/jQuery/MySQL/AWS/Github/Visual Studio Code
+* 機能：新規会員登録・ログイン機能・商品出品機能・商品購入機能・商品編集機能・パンくず機能・コメント機能
+* 作業人数：5人
+* 作業期間：約4週間
+* タスク管理：Trello
+
+* :muscle:
+
+## URL :one:
+***
+### URL：[http://3.113.185.115/](http://3.113.185.115/)
+
+Basic認証をかけています。閲覧時は以下のIDとPassを入力してください。
+### ID&Pass
+* ID: mercari64j
+* Pass:6464
+
+##  テスト用アカウント
+***
+### 購入者アカウント
+* メール：buyer_user@gmail.com
+* パスワード: buyer_user
+
+### 購入用カード情報
+* 番号：4242424242424242
+* 期限：2020年12月
+* セキュリティコード：123
+
+### 出品者用アカウント
+* メール：seller_user@gmail.com
+* パスワード：seller_user
+
+## Githubリポジトリ
+***
+### URL：[https://github.com/kasugatakuya/freemarket_sample_64j](https://github.com/kasugatakuya/freemarket_sample_64j)
+
+## 機能詳細
+***
+### トップページ
+![443e569470d212910f0847177034a30e](https://user-images.githubusercontent.com/57311079/72126763-adb80380-33b0-11ea-88b3-fa778a2c19a1.gif)
+
+### 商品出品機能
+![27d7c8356910f4ad8ad04bad913616dd](https://user-images.githubusercontent.com/57311079/72127280-8104eb80-33b2-11ea-8b8d-4c1dee5efa3a.gif)
+
+### 商品詳細ページ
+![64f63b6e4d396cbacdb96b1fbd0de5b3](https://user-images.githubusercontent.com/57311079/72127481-26b85a80-33b3-11ea-8c6d-cff0cd01e110.gif)
+
+### 商品編集ページ
+![3b08c8991394634587f0170b802ad344](https://user-images.githubusercontent.com/57311079/72129557-fd4efd00-33b9-11ea-88e1-1cc1103160f2.gif)
+
+### 商品購入機能
+![c1d1cb40747b2e899e84ccf5a2f175b7](https://user-images.githubusercontent.com/57311079/72129791-d9d88200-33ba-11ea-959f-0400c05c63d6.gif)
+
+### コメント機能
+![db201a0b4a1e87a0083f6a1c461827f8](https://user-images.githubusercontent.com/57311079/72130231-2ec8c800-33bc-11ea-8110-ad258f47933e.gif)
+
 
 ## users テーブル
 
