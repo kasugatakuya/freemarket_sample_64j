@@ -276,3 +276,5 @@ has_many:brands_genres
 #後ほど記入
 #belongs_to_active_hash :prefecture
 
+## :memo:ER図
+![1516d2d4b35a1708d30d2a33762c3488](https://user-images.githubusercontent.com/57311079/72148618-9a269000-33e4-11ea-835d-2838c76e2be0.png)
